@@ -12,6 +12,5 @@ def solve2():
     return res
 
 if __name__ == '__main__':
-    res = 0
     print(solve())
     print(solve2())
